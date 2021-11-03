@@ -1,0 +1,158 @@
+[
+    {
+        "id": 0,
+        "news_publisher": "The Indian Express",
+        "news_headline": "Here\u2019s how to quickly convert your cryptocurrency into cash",
+        "news_link": "https://news.google.com/articles/CAIiEDZP1LgHhkplSJDvOwFApsMqGAgEKg8IACoHCAow3rvTBDD89X4w8YzmBQ?uo=CAUicGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS90ZWNobm9sb2d5L2NyeXB0by9oZXJlcy1ob3cteW91LWNhbi1jYXNoLW91dC1jcnlwdG9jdXJyZW5jeS1pbnRvLWNhc2gtNzYwNTgzNi_SAQA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 1,
+        "news_publisher": "NDTV Profit",
+        "news_headline": "Mana Cryptocurrency Jumped Over 400% After Facebook's Meta Announcement",
+        "news_link": "https://news.google.com/articles/CAIiELBEYh-LbQLzVvW2rXHX2FQqGQgEKhAIACoHCAowwJmVCzD5-KoDMJ708wY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 2,
+        "news_publisher": "CNET",
+        "news_headline": "Venmo, PayPal and CashApp make cryptocurrency simple for beginners",
+        "news_link": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmNuZXQuY29tL3BlcnNvbmFsLWZpbmFuY2UvY3J5cHRvL3Zlbm1vLXBheXBhbC1hbmQtY2FzaGFwcC1tYWtlLWNyeXB0b2N1cnJlbmN5LXNpbXBsZS1mb3ItYmVnaW5uZXJzL9IBZ2h0dHBzOi8vd3d3LmNuZXQuY29tL2dvb2dsZS1hbXAvbmV3cy92ZW5tby1wYXlwYWwtYW5kLWNhc2hhcHAtbWFrZS1jcnlwdG9jdXJyZW5jeS1zaW1wbGUtZm9yLWJlZ2lubmVycy8?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 3,
+        "news_publisher": "LatestLY",
+        "news_headline": "Cryptocurrency Investments In India: Know How Much Tax Does India Charge For Profits on Digital Currency",
+        "news_link": "https://news.google.com/articles/CAIiEHwg1dgoA75kKpHYWp4YZecqGQgEKhAIACoHCAow7IeCCzDox_4CMOK48gU?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 4,
+        "news_publisher": "NDTV Profit",
+        "news_headline": "Gone In Five Minutes: Lessons For Investors After Squid Coin's Spectacular Fall",
+        "news_link": "https://news.google.com/articles/CAIiEM-Q7vxXxo10fHzd3PeaRS8qGQgEKhAIACoHCAowwJmVCzD5-KoDMJ708wY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 5,
+        "news_publisher": "Outlook India",
+        "news_headline": "Shiba Inu, Dogecoin Dominate Crypto Trading In India",
+        "news_link": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm91dGxvb2tpbmRpYS5jb20vd2Vic2l0ZS9zdG9yeS9idXNpbmVzcy1uZXdzLXNoaWJhLWludS1kb2dlY29pbi1kb21pbmF0ZS1jcnlwdG8tdHJhZGluZy1pbi1pbmRpYS8zOTk3MDfSAXFodHRwczovL3d3dy5vdXRsb29raW5kaWEuY29tL3dlYnNpdGUvYW1wL2J1c2luZXNzLW5ld3Mtc2hpYmEtaW51LWRvZ2Vjb2luLWRvbWluYXRlLWNyeXB0by10cmFkaW5nLWluLWluZGlhLzM5OTcwNw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 6,
+        "news_publisher": "Todayuknews",
+        "news_headline": "Major Thai Bank SCB Acquires 51% Stake In Cryptocurrency Exchange \u2013 Finance Bitcoin News - Todayuknews",
+        "news_link": "https://news.google.com/articles/CAIiEBlbAkvrlivj5MfG5NvgziEqGQgEKhAIACoHCAowzrekCzCRwrwDMIXdhwc?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 7,
+        "news_publisher": "South China Morning Post",
+        "news_headline": "Hong Kong reviews rules on retail trading cryptocurrency ETFs",
+        "news_link": "https://news.google.com/articles/CAIiEChYeL2elP144g8YiuCUD28qGQgEKhAIACoHCAowief2CjCJ2dUCMNvwrAU?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 8,
+        "news_publisher": "LatestLY",
+        "news_headline": "Information News | \u26a1How Does India Tax Cryptocurrency Investments",
+        "news_link": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LmxhdGVzdGx5LmNvbS9xdWlja2x5L2luZGlhL2luZm9ybWF0aW9uL2hvdy1kb2VzLWluZGlhLXRheC1jcnlwdG9jdXJyZW5jeS1pbnZlc3RtZW50cy0zMDE5ODE1Lmh0bWzSAW1odHRwczovL3d3dy5sYXRlc3RseS5jb20vcXVpY2tseS9pbmRpYS9pbmZvcm1hdGlvbi9ob3ctZG9lcy1pbmRpYS10YXgtY3J5cHRvY3VycmVuY3ktaW52ZXN0bWVudHMtMzAxOTgxNS5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 9,
+        "news_publisher": "Stocks Telegraph",
+        "news_headline": "Solana \u2013 The ETH Killer on the rise",
+        "news_link": "https://news.google.com/articles/CBMiPmh0dHBzOi8vc3RvY2tzdGVsZWdyYXBoLmNvbS9zb2xhbmEtdGhlLWV0aC1raWxsZXItb24tdGhlLXJpc2Uv0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 10,
+        "news_publisher": "Economic Times",
+        "news_headline": "Crypto lessons you can take from the ICC T20 World cup!",
+        "news_link": "https://news.google.com/articles/CAIiEBvciDGnT4ltAs_bs5jt7XUqGQgEKhAIACoHCAow2pqGCzD954MDMJzyigY?uo=CAUiiwFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbWFya2V0cy9jcnlwdG9jdXJyZW5jeS9jcnlwdG8tbGVzc29ucy15b3UtY2FuLXRha2UtZnJvbS10aGUtaWNjLXQyMC13b3JsZC1jdXAvYXJ0aWNsZXNob3cvODc1MDk3MTQuY21z0gEA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 11,
+        "news_publisher": "ChronicleLive",
+        "news_headline": "What is ethereum and why is it predicted to outperform bitcoin?",
+        "news_link": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy93aGF0LWV0aGVyZXVtLXByZWRpY3RlZC1vdXRwZXJmb3JtLWJpdGNvaW4tMjIwNTIyMjnSAW5odHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL2J1c2luZXNzL2J1c2luZXNzLW5ld3Mvd2hhdC1ldGhlcmV1bS1wcmVkaWN0ZWQtb3V0cGVyZm9ybS1iaXRjb2luLTIyMDUyMjI5LmFtcA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 12,
+        "news_publisher": "Finextra",
+        "news_headline": "Former AliPay UK CEO Rita Liu on how regulators are boosting crypto literacy",
+        "news_link": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmZpbmV4dHJhLmNvbS9uZXdzYXJ0aWNsZS8zOTE0Ni9mb3JtZXItYWxpcGF5LXVrLWNlby1yaXRhLWxpdS1vbi1ob3ctcmVndWxhdG9ycy1hcmUtYm9vc3RpbmctY3J5cHRvLWxpdGVyYWN50gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 13,
+        "news_publisher": "The News Minute",
+        "news_headline": "Polkadot: The blockchain of blockchains",
+        "news_link": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnRoZW5ld3NtaW51dGUuY29tL2FydGljbGUvcG9sa2Fkb3QtYmxvY2tjaGFpbi1ibG9ja2NoYWlucy0xNTcyMjfSAVBodHRwczovL3d3dy50aGVuZXdzbWludXRlLmNvbS9hcnRpY2xlL3BvbGthZG90LWJsb2NrY2hhaW4tYmxvY2tjaGFpbnMtMTU3MjI3P2FtcA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 14,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "ISW Holdings Reports Financial and Operational Highlights for Three and Nine Months Ended Sept. 30, 2021",
+        "news_link": "https://news.google.com/articles/CBMiWGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9pc3ctaG9sZGluZ3MtcmVwb3J0cy1maW5hbmNpYWwtb3BlcmF0aW9uYWwtMTIwMDAwOTA0Lmh0bWzSAWBodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9pc3ctaG9sZGluZ3MtcmVwb3J0cy1maW5hbmNpYWwtb3BlcmF0aW9uYWwtMTIwMDAwOTA0Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 15,
+        "news_publisher": "Finextra",
+        "news_headline": "ADDX introduces first crypto product",
+        "news_link": "https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LmZpbmV4dHJhLmNvbS9wcmVzc2FydGljbGUvOTAwODcvYWRkeC1pbnRyb2R1Y2VzLWZpcnN0LWNyeXB0by1wcm9kdWN00gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 16,
+        "news_publisher": "Yahoo Sports",
+        "news_headline": "NFL star Aaron Rodgers to be paid Bitcoin as part of salary",
+        "news_link": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS9uZmwtc3Rhci1hYXJvbi1yb2RnZXJzLXBhaWQtMTIwMDUzMzkyLmh0bWzSAUtodHRwczovL3Nwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZmwtc3Rhci1hYXJvbi1yb2RnZXJzLXBhaWQtMTIwMDUzMzkyLmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 17,
+        "news_publisher": "Stocks Telegraph",
+        "news_headline": "Maker - future in jeopardy with stablecoin regulation?",
+        "news_link": "https://news.google.com/articles/CBMiUGh0dHBzOi8vc3RvY2tzdGVsZWdyYXBoLmNvbS9tYWtlci1mdXR1cmUtaW4tamVvcGFyZHktd2l0aC1zdGFibGVjb2luLXJlZ3VsYXRpb24v0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 18,
+        "news_publisher": "The Motley Fool Canada",
+        "news_headline": "Why Is JPMorgan CEO Jamie Dimon Bearish on Bitcoin?",
+        "news_link": "https://news.google.com/articles/CBMiUmh0dHBzOi8vd3d3LmZvb2wuY2EvMjAyMS8xMS8wMy93aHktaXMtanBtb3JnYW4tY2VvLWphbWllLWRpbW9uLWJlYXJpc2gtb24tYml0Y29pbi_SAVZodHRwczovL3d3dy5mb29sLmNhLzIwMjEvMTEvMDMvd2h5LWlzLWpwbW9yZ2FuLWNlby1qYW1pZS1kaW1vbi1iZWFyaXNoLW9uLWJpdGNvaW4vYW1wLw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 19,
+        "news_publisher": "SportsPro Media",
+        "news_headline": "UFC athletes get NFT revenue share as part of new Crypto.com partnership - SportsPro",
+        "news_link": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnNwb3J0c3Byb21lZGlhLmNvbS9uZXdzL3VmYy1jcnlwdG8tbmZ0LWRpZ2l0YWwtY29sbGVjdGlibGVzLWF0aGxldGUtcmV2ZW51ZS1zaGFyZS8_YmxvY2t0YXhvbm9teT10ZWNobm9sb2d50gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 20,
+        "news_publisher": "Caixin Global",
+        "news_headline": "Chinese Fugitive Who Cheated Thousands Charged in US With Visa Fraud",
+        "news_link": "https://news.google.com/articles/CAIiEDrsd3VCoi2WvAJLe3bCcXUqGQgEKhAIACoHCAow-oKHCzDRn4UDMN7ilgY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 21,
+        "news_publisher": "Invezz",
+        "news_headline": "Best exchanges where you can buy Sandbox (SAND) coin as its price skyrockets",
+        "news_link": "https://news.google.com/articles/CAIiEJf0Jfyu8IdO8A8Z_XmUUnMqMwgEKioIACIQGjKSgXXJDz-OzXi6cagdbyoUCAoiEBoykoF1yQ8_js14unGoHW8w-uLJBg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 22,
+        "news_publisher": "Business Insider India",
+        "news_headline": "Battle of the crypto coins!",
+        "news_link": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5pbi92aWRlb3MvY3J5cHRvY3VycmVuY3kvYmF0dGxlLW9mLXRoZS1jcnlwdG8tY29pbnMvdmlkZW9zaG93Lzg3NTEwNDM2LmNtc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 23,
+        "news_publisher": "Investing.com",
+        "news_headline": "Crypto Market Cap Closing to 3T \u2014 Could Hit 100T in a Decade By CoinQuora",
+        "news_link": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy9jcnlwdG9jdXJyZW5jeS1uZXdzL2NyeXB0by1tYXJrZXQtY2FwLWNsb3NpbmctdG8tM3QtLWNvdWxkLWhpdC0xMDB0LWluLWEtZGVjYWRlLTI2NjU4MTjSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 24,
+        "news_publisher": "Investing.com",
+        "news_headline": "NYSE Arca files with SEC to list Bitwise Bitcoin ETP Trust By Cointelegraph",
+        "news_link": "https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy9jcnlwdG9jdXJyZW5jeS1uZXdzL255c2UtYXJjYS1maWxlcy13aXRoLXNlYy10by1saXN0LWJpdHdpc2UtYml0Y29pbi1ldHAtdHJ1c3QtMjY2NTgzOdIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 25,
+        "news_publisher": "FX Leaders",
+        "news_headline": "What Are Crypto Trading Bots? A Comprehensive Guide for 2022 Guide for Crypto Trading - FX Leaders",
+        "news_link": "https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmZ4bGVhZGVycy5jb20vbGVhcm4tY3J5cHRvL3doYXQtYXJlLWNyeXB0by10cmFkaW5nLWJvdHMv0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "news_publisher": "Hindustan Times",
+        "news_headline": "LIVE: WHO grants emergency use listing to Covaxin",
+        "news_link": "https://news.google.com/articles/CAIiEDEOyNr0R485-azR1OIti9IqFwgEKg4IACoGCAoww7k_MMevCDCj7PkG?uo=CAUiZGh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9pbmRpYS1uZXdzL2JyZWFraW5nLW5ld3MtdXBkYXRlcy1ub3ZlbWJlci0zLTIwMjEtMTAxNjM1OTAxMjQ2NTQ1Lmh0bWzSAQA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 1,
+        "news_publisher": "Moneycontrol.com",
+        "news_headline": "Gainers & Losers: 10 stocks that moved the most on November 3",
+        "news_link": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvcGhvdG9zL2J1c2luZXNzL3N0b2Nrcy9nYWluZXJzLWxvc2Vycy0xMC1zdG9ja3MtdGhhdC1tb3ZlZC10aGUtbW9zdC1vbi1ub3ZlbWJlci0zLTItNzY3NjU4MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9waG90b3MvYnVzaW5lc3Mvc3RvY2tzL2dhaW5lcnMtbG9zZXJzLTEwLXN0b2Nrcy10aGF0LW1vdmVkLXRoZS1tb3N0LW9uLW5vdmVtYmVyLTMtMi03Njc2NTgxLmh0bWwvYW1w?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 2,
+        "news_publisher": "Argus Media",
+        "news_headline": "Steel sector's task cut out as India sets net-zero goal",
+        "news_link": "https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmFyZ3VzbWVkaWEuY29tL2VuL25ld3MvMjI3MDEwOC1zdGVlbC1zZWN0b3JzLXRhc2stY3V0LW91dC1hcy1pbmRpYS1zZXRzLW5ldHplcm8tZ29hbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 3,
+        "news_publisher": "Times of India",
+        "news_headline": "Sensex slips for second day ahead of Fed decision; signs off Samvat 2077 with 37% gains",
+        "news_link": "https://news.google.com/articles/CAIiEG7IED_rA5sw0xS76wYMDHoqGQgEKhAIACoHCAowzrL9CjDC7vQCMJCT1wU?uo=CAUiqgFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9idXNpbmVzcy9tYXJrZXRzL3NlbnNleC9zZW5zZXgtc2xpcHMtZm9yLXNlY29uZC1kYXktYWhlYWQtb2YtZmVkLWRlY2lzaW9uLXNpZ25zLW9mZi1zYW12YXQtMjA3Ny13aXRoLTM3LWdhaW5zL2FydGljbGVzaG93Lzg3NTEwMDQyLmNtc9IBAA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 4,
+        "news_publisher": "The Weather Channel",
+        "news_headline": "Climate Action: Heads of Over 100 Nations Set Tone for Net-Zero Emissions Target on the First Two Days of COP26 | The Weather Channel - Articles from The Weather Channel | weather.com",
+        "news_link": "https://news.google.com/articles/CBMieGh0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvY2xpbWF0ZS1jaGFuZ2UvbmV3cy8yMDIxLTExLTAzLWhlYWRzLW9mLW92ZXItMTAwLW5hdGlvbnMtc2V0LXRvbmUtZm9yLW5ldC16ZXJvLWVtaXNzaW9uc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 5,
+        "news_publisher": "Business Insider India",
+        "news_headline": "Here is why Clear(Tax) clinched a deal with the world's most valued fintech company",
+        "news_link": "https://news.google.com/articles/CAIiEPaIdgkGRlqp4AMrXWUoqUMqGQgEKhAIACoHCAowjY6QCzCo8aMDMPqNsgY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 6,
+        "news_publisher": "Goodreturns",
+        "news_headline": "5 Best Multicap Mutual Fund SIPs To Consider In 2021-22",
+        "news_link": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3Lmdvb2RyZXR1cm5zLmluL3BlcnNvbmFsLWZpbmFuY2UvaW52ZXN0bWVudC81LWJlc3QtbXVsdGljYXAtbXV0dWFsLWZ1bmQtc2lwcy10by1jb25zaWRlci1pbi0yMDIxLTIyLTEyMjkxODAuaHRtbNIBgwFodHRwczovL3d3dy5nb29kcmV0dXJucy5pbi9hbXBodG1sL3BlcnNvbmFsLWZpbmFuY2UvaW52ZXN0bWVudC81LWJlc3QtbXVsdGljYXAtbXV0dWFsLWZ1bmQtc2lwcy10by1jb25zaWRlci1pbi0yMDIxLTIyLTEyMjkxODAuaHRtbA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 7,
+        "news_publisher": "Economic Times",
+        "news_headline": "I want to transfer shares, mutual funds worth Rs 50 lakh to NRI daughter. What will be my tax liability?",
+        "news_link": "https://news.google.com/articles/CBMirgFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vd2VhbHRoL3RheC9pLXdhbnQtdG8tdHJhbnNmZXItc2hhcmVzLW11dHVhbC1mdW5kcy13b3J0aC1ycy01MC1sYWtoLXRvLW5yaS1kYXVnaHRlci13aGF0LXdpbGwtYmUtbXktdGF4LWxpYWJpbGl0eS9hcnRpY2xlc2hvdy84NzUwOTU2My5jbXPSAakBaHR0cHM6Ly9tLmVjb25vbWljdGltZXMuY29tL3dlYWx0aC90YXgvaS13YW50LXRvLXRyYW5zZmVyLXNoYXJlcy1tdXR1YWwtZnVuZHMtd29ydGgtcnMtNTAtbGFraC10by1ucmktZGF1Z2h0ZXItd2hhdC13aWxsLWJlLW15LXRheC1saWFiaWxpdHkvYW1wX2FydGljbGVzaG93Lzg3NTA5NTYzLmNtcw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 8,
+        "news_publisher": "IndianWeb2.com",
+        "news_headline": "Build Strategy for Financial Crime Management Solutions Losing Attractiveness Among APAC Financial Institutions",
+        "news_link": "https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LmluZGlhbndlYjIuY29tLzIwMjEvMTEvYnVpbGQtc3RyYXRlZ3ktZm9yLWZpbmFuY2lhbC1jcmltZS5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 9,
+        "news_publisher": "Construction Week Online India",
+        "news_headline": "Building a climate-smart India - People",
+        "news_link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmNvbnN0cnVjdGlvbndlZWtvbmxpbmUuaW4vcGVvcGxlLzIwNDU4LWJ1aWxkaW5nLWEtY2xpbWF0ZS1zbWFydC1pbmRpYdIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 10,
+        "news_publisher": "Mint",
+        "news_headline": "IIM Calcutta concludes summer internship program \u2013 100% placement, 570 offers",
+        "news_link": "https://news.google.com/articles/CAIiECEJjXO-po7sdeOuyhtQnykqFwgEKg4IACoGCAowxLQ_MNevCDDnvNMF?uo=CAUihQFodHRwczovL3d3dy5saXZlbWludC5jb20vZWR1Y2F0aW9uL25ld3MvaWltLWNhbGN1dHRhLWNvbmNsdWRlcy1zdW1tZXItaW50ZXJuc2hpcC1wcm9ncmFtLTEwMC1wbGFjZW1lbnQtNTcwLW9mZmVycy0xMTYzNTkzOTA2MjkwMi5odG1s0gEA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 11,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Global $12.88 Bn Rail Asset Management Markets, 2015-2020, 2020-2025F, 2030F",
+        "news_link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtMTItODgtYm4tcmFpbC0xMjAwMDA4MjYuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 12,
+        "news_publisher": "Economic Times",
+        "news_headline": "Confident that Chaudhuri will be released unconditionally: SBI chairman Dinesh Khara",
+        "news_link": "https://news.google.com/articles/CAIiEDfSIt9i_RVgk1bckMHnZGoqGQgEKhAIACoHCAow2pqGCzD954MDMMLNigY?uo=CAUisgFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vaW5kdXN0cnkvYmFua2luZy9maW5hbmNlL2JhbmtpbmcvY29uZmlkZW50LXRoYXQtY2hhdWRodXJpLXdpbGwtYmUtcmVsZWFzZWQtdW5jb25kaXRpb25hbGx5LXNiaS1jaGFpcm1hbi1kaW5lc2gta2hhcmEvYXJ0aWNsZXNob3cvODc1MTAzNDUuY21z0gEA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 13,
+        "news_publisher": "Lexology",
+        "news_headline": "REITs In India: Structure, Eligibility, Benefits & Limitations",
+        "news_link": "https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmxleG9sb2d5LmNvbS9saWJyYXJ5L2RldGFpbC5hc3B4P2c9NzA0OTUyY2UtNTZiMS00N2RlLTg0OGYtN2E4MDdmOGVhMjU50gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 14,
+        "news_publisher": "Deccan Herald",
+        "news_headline": "News Live: IAF promotes Balakot air strike hero Abhinandan to Group Captain rank",
+        "news_link": "https://news.google.com/articles/CAIiEJN-27OkA09AyqxCjaGe3gQqMwgEKioIACIQjry_YPDACxKLbeLPU-ztoCoUCAoiEI68v2DwwAsSi23iz1Ps7aAwsK7EBg?uo=CAUimQFodHRwczovL3d3dy5kZWNjYW5oZXJhbGQuY29tL25hdGlvbmFsL2xpdmUtbmV3cy1ub3ZlbWJlci0zLWJyZWFraW5nLW5ld3MtaW5kaWEtd29ybGQtdXBkYXRlcy1iZW5nYWx1cnUtbXVtYmFpLWRlbGhpLWtvbGthdGEtbmV3cy10b2RheS13b3JsZC0xMDQ2OTA2Lmh0bWzSAQA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 15,
+        "news_publisher": "United News of India",
+        "news_headline": "Innoviti Announces US$ 5 Million ESOP Buyback Scheme This Diwali",
+        "news_link": "https://news.google.com/articles/CBMiemh0dHA6Ly93d3cudW5paW5kaWEuY29tL2lubm92aXRpLWFubm91bmNlcy11cy01LW1pbGxpb24tZXNvcC1idXliYWNrLXNjaGVtZS10aGlzLWRpd2FsaS9idXNpbmVzcy1lY29ub215L25ld3MvMjU1MzE2MC5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 16,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Tractors Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)",
+        "news_link": "https://news.google.com/articles/CBMiUWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90cmFjdG9ycy1tYXJrZXQtZ3Jvd3RoLXRyZW5kcy1jb3ZpZC0xMTUxMDAyMTAuaHRtbNIBWWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3RyYWN0b3JzLW1hcmtldC1ncm93dGgtdHJlbmRzLWNvdmlkLTExNTEwMDIxMC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "id": 0,
+        "news_publisher": "World Bank Group",
+        "news_headline": "Climate Stories | Climate Finance",
+        "news_link": "https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LndvcmxkYmFuay5vcmcvZW4vbmV3cy9mZWF0dXJlLzIwMjEvMTEvMDMvaW5ub3ZhdGl2ZS10b29scy1mb3ItY2xpbWF0ZS1hY3Rpb27SAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 1,
+        "news_publisher": "The Guardian",
+        "news_headline": "Cop26 live: world \u2018heading for 1.9C of heating\u2019, climate model projects",
+        "news_link": "https://news.google.com/articles/CAIiEFSKznhbj0DB8CNiIMyCmK4qFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 2,
+        "news_publisher": "The Washington Post",
+        "news_headline": "Financial firms announce $130 trillion in commitments for climate transition, but practical questions loom",
+        "news_link": "https://news.google.com/articles/CAIiEMqs98bwNqLf6NbKi24kJdQqGAgEKg8IACoHCAowjtSUCjC30XQw0fe8Bg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 3,
+        "news_publisher": "Reuters",
+        "news_headline": "As politicians exit COP26, $130tn worth of financiers take the stage",
+        "news_link": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2NvcC93cmFwdXAtcG9saXRpY2lhbnMtZXhpdC1jb3AyNi0xMzB0bi13b3J0aC1maW5hbmNpZXJzLXRha2Utc3RhZ2UtMjAyMS0xMS0wMy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 4,
+        "news_publisher": "The Week UK",
+        "news_headline": "Explained: UK\u2019s aim to be first \u2018net zero-aligned financial centre\u2019",
+        "news_link": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnRoZXdlZWsuY28udWsvbmV3cy9lbnZpcm9ubWVudC85NTQ2NzEvZXhwbGFpbmVkLXVrLWZpcnN0LW5ldC16ZXJvLWFsaWduZWQtZmluYW5jaWFsLWNlbnRyZdIBamh0dHBzOi8vd3d3LnRoZXdlZWsuY28udWsvbmV3cy9lbnZpcm9ubWVudC85NTQ2NzEvZXhwbGFpbmVkLXVrLWZpcnN0LW5ldC16ZXJvLWFsaWduZWQtZmluYW5jaWFsLWNlbnRyZT9hbXA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 5,
+        "news_publisher": "BollyInside",
+        "news_headline": "UPDATE 1-Britain sets out how finance can help achieve net zero targets - Bollyinside",
+        "news_link": "https://news.google.com/articles/CAIiEB3LjsiGW9mozEDYTx8B1pQqMwgEKioIACIQTxXQSdKZdl0oVFWm9eMlYCoUCAoiEE8V0EnSmXZdKFRVpvXjJWAw_qP5Bg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 6,
+        "news_publisher": "BBC News",
+        "news_headline": "COP26: Protests continue as climate summit focuses on global finance",
+        "news_link": "https://news.google.com/articles/CBMiLWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1zY290bGFuZC01OTE0OTcxONIBMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1zY290bGFuZC01OTE0OTcxOC5hbXA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 7,
+        "news_publisher": "Business Insider India",
+        "news_headline": "Here is why Clear(Tax) clinched a deal with the world's most valued fintech company",
+        "news_link": "https://news.google.com/articles/CAIiEPaIdgkGRlqp4AMrXWUoqUMqGQgEKhAIACoHCAowjY6QCzCo8aMDMPqNsgY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 8,
+        "news_publisher": "The Washington Post",
+        "news_headline": "COP26 climate summit moves focus to finance",
+        "news_link": "https://news.google.com/articles/CAIiELPCZtu9QhxLerl1WdZF6xwqGAgEKg8IACoHCAowjtSUCjC30XQw0fe8Bg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 9,
+        "news_publisher": "The Weather Channel",
+        "news_headline": "Climate Action: Heads of Over 100 Nations Set Tone for Net-Zero Emissions Target on the First Two Days of COP26 | The Weather Channel - Articles from The Weather Channel | weather.com",
+        "news_link": "https://news.google.com/articles/CBMieGh0dHBzOi8vd2VhdGhlci5jb20vZW4tSU4vaW5kaWEvY2xpbWF0ZS1jaGFuZ2UvbmV3cy8yMDIxLTExLTAzLWhlYWRzLW9mLW92ZXItMTAwLW5hdGlvbnMtc2V0LXRvbmUtZm9yLW5ldC16ZXJvLWVtaXNzaW9uc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 10,
+        "news_publisher": "Finextra",
+        "news_headline": "LEI dats sets to be made available on Amazon cloud",
+        "news_link": "https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmZpbmV4dHJhLmNvbS9wcmVzc2FydGljbGUvOTAwODYvbGVpLWRhdHMtc2V0cy10by1iZS1tYWRlLWF2YWlsYWJsZS1vbi1hbWF6b24tY2xvdWTSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 11,
+        "news_publisher": "IEA",
+        "news_headline": "AUC-IEA Ministerial Forum: Financing New Investments to Accelerate Africa's Clean Energy Transitions - Event",
+        "news_link": "https://news.google.com/articles/CBMifmh0dHBzOi8vd3d3LmllYS5vcmcvZXZlbnRzL2F1Yy1pZWEtbWluaXN0ZXJpYWwtZm9ydW0tZmluYW5jaW5nLW5ldy1pbnZlc3RtZW50cy10by1hY2NlbGVyYXRlLWFmcmljYS1zLWNsZWFuLWVuZXJneS10cmFuc2l0aW9uc9IBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 12,
+        "news_publisher": "edie.net",
+        "news_headline": "International Sustainability Standards Board launches as investors mobilise $130trn in climate finance",
+        "news_link": "https://news.google.com/articles/CAIiEJw983btGoqFQrEYsC7B7mQqMwgEKioIACIQzJXgBBnuo82bK5EZnGdWzCoUCAoiEMyV4AQZ7qPNmyuRGZxnVswwm5r0Bg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 13,
+        "news_publisher": "Thomson Reuters Foundation",
+        "news_headline": "WRAPUP-As politicians exit COP26, $130tn worth of financiers...",
+        "news_link": "https://news.google.com/articles/CBMiMWh0dHBzOi8vbmV3cy50cnVzdC5vcmcvaXRlbS8yMDIxMTEwMzExMzgwOS1reTY5Yy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 14,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Investors And Cultural Leaders Contribute To Valora's Fundraise",
+        "news_link": "https://news.google.com/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9pbnZlc3RvcnMtY3VsdHVyYWwtbGVhZGVycy1jb250cmlidXRlLXZhbG9yYXMtMTIwMDAwNzEzLmh0bWzSAWNodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9pbnZlc3RvcnMtY3VsdHVyYWwtbGVhZGVycy1jb250cmlidXRlLXZhbG9yYXMtMTIwMDAwNzEzLmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 15,
+        "news_publisher": "Pensions Age",
+        "news_headline": "Financial institutions to be required to produce net-zero transition plans",
+        "news_link": "https://news.google.com/articles/CBMibWh0dHBzOi8vd3d3LnBlbnNpb25zYWdlLmNvbS9wYS9GaW5hbmNpYWwtaW5zdGl0dXRpb25zLXRvLWJlLXJlcXVpcmVkLXRvLXByb2R1Y2UtbmV0LXplcm8tdHJhbnNpdGlvbi1wbGFucy5waHDSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 16,
+        "news_publisher": "Telegraph.co.uk",
+        "news_headline": "House prices hit \u00a3250,000 for the first time - live updates",
+        "news_link": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9idXNpbmVzcy8yMDIxLzExLzAzL2Z0c2UtMTAwLW1hcmtldHMtbGl2ZS1uZXdzLWNvcDI2LWZpbmFuY2UtdGFyZ2V0cy1lbmVyZ3kv0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 17,
+        "news_publisher": "Daily Maverick",
+        "news_headline": "South Africa secures \u2018watershed\u2019 finance deal to reduce coal reliance",
+        "news_link": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmRhaWx5bWF2ZXJpY2suY28uemEvYXJ0aWNsZS8yMDIxLTExLTAzLXNvdXRoLWFmcmljYS1zZWN1cmVzLXdhdGVyc2hlZC1maW5hbmNlLWRlYWwtdG8tcmVkdWNlLWNvYWwtcmVsaWFuY2Uv0gF7aHR0cHM6Ly93d3cuZGFpbHltYXZlcmljay5jby56YS9hcnRpY2xlLzIwMjEtMTEtMDMtc291dGgtYWZyaWNhLXNlY3VyZXMtd2F0ZXJzaGVkLWZpbmFuY2UtZGVhbC10by1yZWR1Y2UtY29hbC1yZWxpYW5jZS9hbXAv?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 18,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Shipping group CMA CGM to buy Los Angeles' FMS container terminal",
+        "news_link": "https://news.google.com/articles/CBMiSGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaGlwcGluZy1ncm91cC1jbWEtY2dtLWJ1eS0xMjA4MDY5OTQuaHRtbNIBUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3NoaXBwaW5nLWdyb3VwLWNtYS1jZ20tYnV5LTEyMDgwNjk5NC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 19,
+        "news_publisher": "Securities Finance Times",
+        "news_headline": "Goldman Sachs taps Digital Asset to build open platform for tokenised assets",
+        "news_link": "https://news.google.com/articles/CAIiEHQfKDYh3nrsJd_4SpD4D4UqGQgEKhAIACoHCAowqryfCzC3xrcDMObw_gY?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 20,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Global $12.88 Bn Rail Asset Management Markets, 2015-2020, 2020-2025F, 2030F",
+        "news_link": "https://news.google.com/articles/CBMiQmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtMTItODgtYm4tcmFpbC0xMjAwMDA4MjYuaHRtbNIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 21,
+        "news_publisher": "Financial Times",
+        "news_headline": "Latest news updates: Eurozone joblessness slides to pre-pandemic levels as staff shortages abound",
+        "news_link": "https://news.google.com/articles/CAIiEMknnmlZ5eRuFEYvcsJzTXcqGAgEKg8IACoHCAow-4fWBzD4z0gw_fCpBg?uo=CAUiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzNlMjhiOGQ0LTk4MTctNDY2Yy05YWYwLTdmMTc5NWUzOWUzZtIBAA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 22,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Worldwide Sustainable Aviation Fuel Industry to 2030 - by Fuel Type, Aircraft Type and Platform",
+        "news_link": "https://news.google.com/articles/CBMiWmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy93b3JsZHdpZGUtc3VzdGFpbmFibGUtYXZpYXRpb24tZnVlbC1pbmR1c3RyeS0xMTM4MDAwOTYuaHRtbNIBYmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL3dvcmxkd2lkZS1zdXN0YWluYWJsZS1hdmlhdGlvbi1mdWVsLWluZHVzdHJ5LTExMzgwMDA5Ni5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 23,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Global Identity Verification Markets Analysis & Forecasts, 2018-2020 & 2021-2030",
+        "news_link": "https://news.google.com/articles/CBMiW2h0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtaWRlbnRpdHktdmVyaWZpY2F0aW9uLW1hcmtldHMtYW5hbHlzaXMtMTEzMzAwMTc5Lmh0bWzSAWNodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9nbG9iYWwtaWRlbnRpdHktdmVyaWZpY2F0aW9uLW1hcmtldHMtYW5hbHlzaXMtMTEzMzAwMTc5Lmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 24,
+        "news_publisher": "Yahoo Finance Australia",
+        "news_headline": "SOURCE Global's Approach to Solving the World's Drinking Water Crisis Further Supported by Independent Google X Study",
+        "news_link": "https://news.google.com/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zb3VyY2UtZ2xvYmFsLWFwcHJvYWNoLXNvbHZpbmctd29ybGQtMTIxNTAwNTg1Lmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 25,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "New Slate of Speakers Announced for the 2021 Global Wellness Summit Reveals the Depth and Diversity of Disruption Underway in Health and Wellness",
+        "news_link": "https://news.google.com/articles/CBMiUmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zbGF0ZS1zcGVha2Vycy1hbm5vdW5jZWQtMjAyMS1nbG9iYWwtMTIwMDAwNzYyLmh0bWzSAVpodHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9zbGF0ZS1zcGVha2Vycy1hbm5vdW5jZWQtMjAyMS1nbG9iYWwtMTIwMDAwNzYyLmh0bWw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 26,
+        "news_publisher": "Bluefield Daily Telegraph",
+        "news_headline": "KnowBe4 Announces Third Quarter 2021 Financial Results | Nation/World | bdtonline.com",
+        "news_link": "https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5iZHRvbmxpbmUuY29tL25ld3MvbmF0aW9uX3dvcmxkL2tub3diZTQtYW5ub3VuY2VzLXRoaXJkLXF1YXJ0ZXItMjAyMS1maW5hbmNpYWwtcmVzdWx0cy9hcnRpY2xlXzlmMzQ4MmZmLTMyOWYtNTlmMy1iYjkyLTQzYTg0NDA4OGYzMC5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 27,
+        "news_publisher": "Business Day",
+        "news_headline": "Andre de Ruyter says climate finance deal is important first step",
+        "news_link": "https://news.google.com/articles/CBMieGh0dHBzOi8vd3d3LmJ1c2luZXNzbGl2ZS5jby56YS9iZC9uYXRpb25hbC8yMDIxLTExLTAzLWFuZHJlLWRlLXJ1eXRlci1zYXlzLWNsaW1hdGUtZmluYW5jZS1kZWFsLWlzLWltcG9ydGFudC1maXJzdC1zdGVwL9IBfGh0dHBzOi8vd3d3LmJ1c2luZXNzbGl2ZS5jby56YS9hbXAvYmQvbmF0aW9uYWwvMjAyMS0xMS0wMy1hbmRyZS1kZS1ydXl0ZXItc2F5cy1jbGltYXRlLWZpbmFuY2UtZGVhbC1pcy1pbXBvcnRhbnQtZmlyc3Qtc3RlcC8?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 28,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "Jupiter Teams with the Arsht-Rock Center's Extreme Heat Resilience Initiative To Support Underserved Countries and Communities",
+        "news_link": "https://news.google.com/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9qdXBpdGVyLXRlYW1zLWFyc2h0LXJvY2stY2VudGVyLTEyMDAwMDUwNi5odG1s0gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 29,
+        "news_publisher": "Yahoo Finance",
+        "news_headline": "CrowdStrike Announces Falcon Horizon Support for Google Cloud, Extends Cloud Security Posture Management Solution Across World\u2019s Largest Cloud Providers",
+        "news_link": "https://news.google.com/articles/CBMiWmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9jcm93ZHN0cmlrZS1hbm5vdW5jZXMtZmFsY29uLWhvcml6b24tc3VwcG9ydC0xMjAwMDAxMTQuaHRtbNIBYmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vYW1waHRtbC9uZXdzL2Nyb3dkc3RyaWtlLWFubm91bmNlcy1mYWxjb24taG9yaXpvbi1zdXBwb3J0LTEyMDAwMDExNC5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 30,
+        "news_publisher": "Reuters",
+        "news_headline": "ECB \"very unlikely\" to raise rates in 2022, Lagarde says",
+        "news_link": "https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2ZpbmFuY2UvZWNiLXZlcnktdW5saWtlbHktcmFpc2UtcmF0ZXMtbmV4dC15ZWFyLWxhZ2FyZGUtc2F5cy0yMDIxLTExLTAzL9IBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 31,
+        "news_publisher": "StreetInsider.com",
+        "news_headline": "AUDACIOUS Signs Term Sheet with Thailand-Based Golden Triangle Health to Drive Entry into the Asia-Pacific Cannabis Market",
+        "news_link": "https://news.google.com/articles/CBMisQFodHRwczovL3d3dy5zdHJlZXRpbnNpZGVyLmNvbS9QUk5ld3N3aXJlL0FVREFDSU9VUytTaWducytUZXJtK1NoZWV0K3dpdGgrVGhhaWxhbmQtQmFzZWQrR29sZGVuK1RyaWFuZ2xlK0hlYWx0aCt0bytEcml2ZStFbnRyeStpbnRvK3RoZStBc2lhLVBhY2lmaWMrQ2FubmFiaXMrTWFya2V0LzE5MTUwMjQwLmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    }
+]

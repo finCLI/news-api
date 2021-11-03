@@ -1,0 +1,98 @@
+[
+    {
+        "id": 0,
+        "news_publisher": "CoinDesk",
+        "news_headline": "Looking Into Ethereum's Economic Future",
+        "news_link": "https://news.google.com/articles/CAIiEGN21YknWOI2ga_dRY2TgL8qMwgEKioIACIQVUfMNPchx9tcFFSwReSP7CoUCAoiEFVHzDT3IcfbXBRUsEXkj-wwkeKnBw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 1,
+        "news_publisher": "ChronicleLive",
+        "news_headline": "What is ethereum and why is it predicted to outperform bitcoin?",
+        "news_link": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmNocm9uaWNsZWxpdmUuY28udWsvYnVzaW5lc3MvYnVzaW5lc3MtbmV3cy93aGF0LWV0aGVyZXVtLXByZWRpY3RlZC1vdXRwZXJmb3JtLWJpdGNvaW4tMjIwNTIyMjnSAW5odHRwczovL3d3dy5jaHJvbmljbGVsaXZlLmNvLnVrL2J1c2luZXNzL2J1c2luZXNzLW5ld3Mvd2hhdC1ldGhlcmV1bS1wcmVkaWN0ZWQtb3V0cGVyZm9ybS1iaXRjb2luLTIyMDUyMjI5LmFtcA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 2,
+        "news_publisher": "Yahoo Eurosport UK",
+        "news_headline": "Looking Into Ethereum\u2019s Economic Future",
+        "news_link": "https://news.google.com/articles/CBMiT2h0dHA6Ly91ay5zcG9ydHMueWFob28uY29tL25ld3MvbG9va2luZy1ldGhlcmV1bS1lY29ub21pYy1mdXR1cmUtMTEzMDAwMjg5Lmh0bWzSAVhodHRwczovL3VrLnNwb3J0cy55YWhvby5jb20vYW1waHRtbC9uZXdzL2xvb2tpbmctZXRoZXJldW0tZWNvbm9taWMtZnV0dXJlLTExMzAwMDI4OS5odG1s?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 3,
+        "news_publisher": "Cryptonews",
+        "news_headline": "Ethereum Name Service to Pass Governance Over to Community, Details ENS Airdrop",
+        "news_link": "https://news.google.com/articles/CAIiEBs14AQ5flmHMutZ42TQaSAqMwgEKioIACIQOG0vTzP65T11pGTnFueHJCoUCAoiEDhtL08z-uU9daRk5xbnhyQwg7vbBg?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 4,
+        "news_publisher": "FXStreet",
+        "news_headline": "Loopring surges 40%, Solana replaces Cardano as 5th-largest coin as Ethereum fees spike",
+        "news_link": "https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5meHN0cmVldC5jb20vY3J5cHRvY3VycmVuY2llcy9uZXdzL2xvb3ByaW5nLXN1cmdlcy00MC1zb2xhbmEtcmVwbGFjZXMtY2FyZGFuby1hcy01dGgtbGFyZ2VzdC1jb2luLWFzLWV0aGVyZXVtLWZlZXMtc3Bpa2UtMjAyMTExMDMxMTQ50gGVAWh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9hbXAvY3J5cHRvY3VycmVuY2llcy9uZXdzL2xvb3ByaW5nLXN1cmdlcy00MC1zb2xhbmEtcmVwbGFjZXMtY2FyZGFuby1hcy01dGgtbGFyZ2VzdC1jb2luLWFzLWV0aGVyZXVtLWZlZXMtc3Bpa2UtMjAyMTExMDMxMTQ5?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 5,
+        "news_publisher": "TechJuice",
+        "news_headline": "Ethereum makes another big leap in just 10 days",
+        "news_link": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LnRlY2hqdWljZS5way9ldGhlcmV1bS1tYWtlcy1hbm90aGVyLWJpZy1sZWFwLWluLWp1c3QtMTAtZGF5cy_SAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 6,
+        "news_publisher": "RTE.ie",
+        "news_headline": "Ether scales $4,600 to record high as bitcoin trails",
+        "news_link": "https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LnJ0ZS5pZS9uZXdzL2J1c2luZXNzLzIwMjEvMTEwMy8xMjU3NjI5LWV0aGVycy1tb3ZlbWVudHMv0gEfaHR0cHM6Ly9hbXAucnRlLmllL2FtcC8xMjU3NjI5Lw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 7,
+        "news_publisher": "Investing.com",
+        "news_headline": "Bitcoin price consolidation 'could be over,' says trader as Ethereum, Polkadot hit all-time highs By Cointelegraph",
+        "news_link": "https://news.google.com/articles/CBMilwFodHRwczovL3d3dy5pbnZlc3RpbmcuY29tL25ld3MvY3J5cHRvY3VycmVuY3ktbmV3cy9iaXRjb2luLXByaWNlLWNvbnNvbGlkYXRpb24tY291bGQtYmUtb3Zlci1zYXlzLXRyYWRlci1hcy1ldGhlcmV1bS1wb2xrYWRvdC1oaXQtYWxsdGltZS1oaWdocy0yNjY1ODc30gEA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 8,
+        "news_publisher": "The News Minute",
+        "news_headline": "Polkadot: The blockchain of blockchains",
+        "news_link": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LnRoZW5ld3NtaW51dGUuY29tL2FydGljbGUvcG9sa2Fkb3QtYmxvY2tjaGFpbi1ibG9ja2NoYWlucy0xNTcyMjfSAVBodHRwczovL3d3dy50aGVuZXdzbWludXRlLmNvbS9hcnRpY2xlL3BvbGthZG90LWJsb2NrY2hhaW4tYmxvY2tjaGFpbnMtMTU3MjI3P2FtcA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 9,
+        "news_publisher": "Kitco NEWS",
+        "news_headline": "Ether scales $4600 to record high, bitcoin trails",
+        "news_link": "https://news.google.com/articles/CBMiW2h0dHBzOi8vd3d3LmtpdGNvLmNvbS9uZXdzLzIwMjEtMTEtMDMvRXRoZXItc2NhbGVzLTQtNjAwLXRvLXJlY29yZC1oaWdoLWJpdGNvaW4tdHJhaWxzLmh0bWzSAQA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 10,
+        "news_publisher": "Outlook India",
+        "news_headline": "Shiba Inu, Dogecoin Dominate Crypto Trading In India",
+        "news_link": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm91dGxvb2tpbmRpYS5jb20vd2Vic2l0ZS9zdG9yeS9idXNpbmVzcy1uZXdzLXNoaWJhLWludS1kb2dlY29pbi1kb21pbmF0ZS1jcnlwdG8tdHJhZGluZy1pbi1pbmRpYS8zOTk3MDfSAXFodHRwczovL3d3dy5vdXRsb29raW5kaWEuY29tL3dlYnNpdGUvYW1wL2J1c2luZXNzLW5ld3Mtc2hpYmEtaW51LWRvZ2Vjb2luLWRvbWluYXRlLWNyeXB0by10cmFkaW5nLWluLWluZGlhLzM5OTcwNw?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 11,
+        "news_publisher": "Economic Times",
+        "news_headline": "Crypto lessons you can take from the ICC T20 World cup!",
+        "news_link": "https://news.google.com/articles/CAIiEBvciDGnT4ltAs_bs5jt7XUqGQgEKhAIACoHCAow2pqGCzD954MDMJzyigY?uo=CAUiiwFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vbWFya2V0cy9jcnlwdG9jdXJyZW5jeS9jcnlwdG8tbGVzc29ucy15b3UtY2FuLXRha2UtZnJvbS10aGUtaWNjLXQyMC13b3JsZC1jdXAvYXJ0aWNsZXNob3cvODc1MDk3MTQuY21z0gEA&hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 12,
+        "news_publisher": "CryptoSlate",
+        "news_headline": "Cult favourite \u2018Pulp Fiction\u2019 is dropping seven Secret NFTs on OpenSea",
+        "news_link": "https://news.google.com/articles/CBMiXWh0dHBzOi8vY3J5cHRvc2xhdGUuY29tL2N1bHQtZmF2b3VyaXRlLXB1bHAtZmljdGlvbi1pcy1kcm9wcGluZy1zZXZlbi1zZWNyZXQtbmZ0cy1vbi1vcGVuc2VhL9IBYWh0dHBzOi8vY3J5cHRvc2xhdGUuY29tL2N1bHQtZmF2b3VyaXRlLXB1bHAtZmljdGlvbi1pcy1kcm9wcGluZy1zZXZlbi1zZWNyZXQtbmZ0cy1vbi1vcGVuc2VhL2FtcC8?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 13,
+        "news_publisher": "Arab News",
+        "news_headline": "Nigeria to issue $610m Sukuk on local market for road projects funding",
+        "news_link": "https://news.google.com/articles/CBMiNmh0dHBzOi8vd3d3LmFyYWJuZXdzLmNvbS9ub2RlLzE5NjA3OTEvYnVzaW5lc3MtZWNvbm9tedIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 14,
+        "news_publisher": "Investing.com",
+        "news_headline": "NYSE Arca files with SEC to list Bitwise Bitcoin ETP Trust By Cointelegraph",
+        "news_link": "https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmludmVzdGluZy5jb20vbmV3cy9jcnlwdG9jdXJyZW5jeS1uZXdzL255c2UtYXJjYS1maWxlcy13aXRoLXNlYy10by1saXN0LWJpdHdpc2UtYml0Y29pbi1ldHAtdHJ1c3QtMjY2NTgzOdIBAA?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    },
+    {
+        "id": 15,
+        "news_publisher": "CryptoGlobe",
+        "news_headline": "Composable Finance Wins 12th Kusama Parachain Auction With Over $50M Of KSM Raised For Picasso",
+        "news_link": "https://news.google.com/articles/CBMiiQFodHRwczovL3d3dy5jcnlwdG9nbG9iZS5jb20vbGF0ZXN0LzIwMjEvMTEvY29tcG9zYWJsZS1maW5hbmNlLXdpbnMtMTJ0aC1rdXNhbWEtcGFyYWNoYWluLWF1Y3Rpb24td2l0aC1vdmVyLTUwbS1vZi1rc20tcmFpc2VkLWZvci1waWNhc3NvL9IBjQFodHRwczovL3d3dy5jcnlwdG9nbG9iZS5jb20vbGF0ZXN0LzIwMjEvMTEvY29tcG9zYWJsZS1maW5hbmNlLXdpbnMtMTJ0aC1rdXNhbWEtcGFyYWNoYWluLWF1Y3Rpb24td2l0aC1vdmVyLTUwbS1vZi1rc20tcmFpc2VkLWZvci1waWNhc3NvL2FtcC8?hl=en-IN&gl=IN&ceid=IN%3Ae"
+    }
+]
