@@ -1,5 +1,5 @@
 # news-api
-🚧 finCLI's own News API
+finCLI's own News API
 
 ## Founder's Letter
 
