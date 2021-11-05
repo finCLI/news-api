@@ -31,9 +31,9 @@ More on API Usage? [Explore the docs](https://github.com/finCLI/news-api)
 **GET**
 
 <ol>
-<li><a href="https://fincli.github.io/news-api/data/bitcoin.json">/bitcoin</a> : updates on Bitcoin</li>
-<li><a href="https://fincli.github.io/news-api/data/ethereum.json">/ethereum</a> : updates on Ethereum</li>
-<li><a href="https://fincli.github.io/news-api/data/cryptocurrency.json">/cryptocurrency</a> : updates on Cryptocurrency</li>
-<li><a href="https://fincli.github.io/news-api/data/globalfinance.json">/globe</a> : updates on Global Finance</li>
-<li><a href="https://fincli.github.io/news-api/data/indianfinance.json">/india</a> : updates on Indian Finance</li>
+<li><a href="https://fincli-news-api.herokuapp.com/bitcoin">/bitcoin</a> : updates on Bitcoin</li>
+<li><a href="https://fincli-news-api.herokuapp.com/ethereum">/ethereum</a> : updates on Ethereum</li>
+<li><a href="https://fincli-news-api.herokuapp.com/cryptocurrency">/cryptocurrency</a> : updates on Cryptocurrency</li>
+<li><a href="https://fincli-news-api.herokuapp.com/globe">/globe</a> : updates on Global Finance</li>
+<li><a href="https://fincli-news-api.herokuapp.com/india">/india</a> : updates on Indian Finance</li>
 </ol>
