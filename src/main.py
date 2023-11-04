@@ -4,6 +4,7 @@ import requests
 import re
 import csv
 import json
+from datetime import datetime
 
 # function to extract html document from given url
 def getHTMLdocument(url):
@@ -18,6 +19,8 @@ url_ethereum = "https://news.google.com/search?q=ethereum%20when%3A1h&hl=en-IN&g
 url_cryptocurrency = "https://news.google.com/search?q=cryptocurrency%20when%3A1h&hl=en-IN&gl=IN&ceid=IN%3Aen"
 url_global_finance = "https://news.google.com/search?q=finance%2C%20world%20when%3A1h&hl=en-IN&gl=IN&ceid=IN%3Aen"
 url_indian_finance = "https://news.google.com/search?q=indian%20finance%20%20when%3A1h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+url_indian_startups = "https://news.google.com/search?q=indian%20startups%20%20when%3A1h&hl=en-IN&gl=IN&ceid=IN%3Aen"
+url_indian_tech = "https://news.google.com/search?q=indian%20tech%20%20when%3A1h&hl=en-IN&gl=IN&ceid=IN%3Aen"
 
 def getData(url_topic):
     '''Function to scrape news data from the given url.
@@ -45,7 +48,7 @@ def getData(url_topic):
         headline.append(i.text)
 
     # news_publisher
-    for i in soup.find_all('a', attrs={'class':'wEwyrc AVN2gc uQIVzc Sksgp'}):
+    for i in soup.find_all('a', attrs={'class':'wEwyrc'}):
         news_publisher.append(i.text)
     
     return news_link_collection, headline, news_publisher
@@ -125,7 +128,7 @@ def getJSONData(url_topic):
     news_link_collection, headline, news_publisher = getData(url_topic) 
 
     sample_data = []
-    for i in range(len(news_link_collection)):
+    for i in range(min(len(news_link_collection), 5)):
         json_data = {
                     "id": i,
                     "news_publisher" : news_publisher[i],
@@ -136,6 +139,28 @@ def getJSONData(url_topic):
     
     return sample_data
 
+def callForAllTopics():
+    return {
+        "india": getJSONData(url_indian_finance), 
+        "globe": getJSONData(url_global_finance),
+        "tech": getJSONData(url_indian_tech),
+        "startups": getJSONData(url_indian_startups),
+        "crypto": getJSONData(url_cryptocurrency)
+        }
+
+def get_latest_news(payload):
+    print(">> Payload", payload)
+    if payload:
+        payload_hour = payload["current_hour"]
+    hour = datetime.now().strftime("%H")
+    # if payload_hour <= hour:
+    #     return "from DB"
+    # else:
+    #     return callForAllTopics()
+    return callForAllTopics()
+
+def get_health():
+    return "active"
 
 if __name__ == "__main__":
     # So that this function does not run during import of file
